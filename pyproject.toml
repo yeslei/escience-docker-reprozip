@@ -1,0 +1,13 @@
+[project]
+name = "escience-docker-reprozip-gpu-pipeline"
+version = "0.1.0"
+description = "Pipeline reprodutivel para analise de historico de precos de GPUs."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "matplotlib>=3.7",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
