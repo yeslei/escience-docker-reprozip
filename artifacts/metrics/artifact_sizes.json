@@ -1,0 +1,12 @@
+[
+  {
+    "artefato": "docker_image_gpu-pipeline",
+    "bytes": 119732314,
+    "mb": 114.19
+  },
+  {
+    "artefato": "reprozip_package_gpu-pipeline.rpz",
+    "bytes": 51978240,
+    "mb": 49.57
+  }
+]

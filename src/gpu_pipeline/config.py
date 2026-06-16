@@ -19,6 +19,10 @@ class ConfiguracaoPipeline:
     def diretorio_figuras(self) -> Path:
         return self.diretorio_saida / "figures"
 
+    @property
+    def diretorio_metricas(self) -> Path:
+        return self.diretorio_saida / "metrics"
+
 
 def configuracao_padrao(diretorio_saida: str | Path = "artifacts") -> ConfiguracaoPipeline:
     return ConfiguracaoPipeline(

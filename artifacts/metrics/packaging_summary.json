@@ -1,0 +1,38 @@
+[
+  {
+    "chave": "docker:build",
+    "execucoes": 3,
+    "media_segundos": 22.691876,
+    "mediana_segundos": 21.001921,
+    "desvio_padrao_segundos": 3.193074,
+    "minimo_segundos": 20.698939,
+    "maximo_segundos": 26.374769
+  },
+  {
+    "chave": "reprozip:pack",
+    "execucoes": 3,
+    "media_segundos": 29.921944,
+    "mediana_segundos": 29.901962,
+    "desvio_padrao_segundos": 0.391002,
+    "minimo_segundos": 29.541316,
+    "maximo_segundos": 30.322554
+  },
+  {
+    "chave": "reprozip:reprounzip-docker-setup",
+    "execucoes": 1,
+    "media_segundos": 20.288977,
+    "mediana_segundos": 20.288977,
+    "desvio_padrao_segundos": 0.0,
+    "minimo_segundos": 20.288977,
+    "maximo_segundos": 20.288977
+  },
+  {
+    "chave": "reprozip:trace",
+    "execucoes": 1,
+    "media_segundos": 113.892919,
+    "mediana_segundos": 113.892919,
+    "desvio_padrao_segundos": 0.0,
+    "minimo_segundos": 113.892919,
+    "maximo_segundos": 113.892919
+  }
+]

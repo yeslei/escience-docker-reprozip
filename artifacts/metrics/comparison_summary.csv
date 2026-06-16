@@ -1,0 +1,4 @@
+contexto,execucoes,media_segundos,mediana_segundos,desvio_padrao_segundos,minimo_segundos,maximo_segundos,overhead_percentual
+docker,10,0.431649,0.39623,0.086732,0.352501,0.635541,-80.24
+native,10,2.18455,2.13638,0.216556,1.916267,2.579507,
+reprozip,10,0.356324,0.349363,0.020986,0.337091,0.403735,-83.69

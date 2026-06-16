@@ -1,0 +1,32 @@
+[
+  {
+    "contexto": "docker",
+    "execucoes": 10,
+    "media_segundos": 0.431649,
+    "mediana_segundos": 0.39623,
+    "desvio_padrao_segundos": 0.086732,
+    "minimo_segundos": 0.352501,
+    "maximo_segundos": 0.635541,
+    "overhead_percentual": -80.24
+  },
+  {
+    "contexto": "native",
+    "execucoes": 10,
+    "media_segundos": 2.18455,
+    "mediana_segundos": 2.13638,
+    "desvio_padrao_segundos": 0.216556,
+    "minimo_segundos": 1.916267,
+    "maximo_segundos": 2.579507,
+    "overhead_percentual": null
+  },
+  {
+    "contexto": "reprozip",
+    "execucoes": 10,
+    "media_segundos": 0.356324,
+    "mediana_segundos": 0.349363,
+    "desvio_padrao_segundos": 0.020986,
+    "minimo_segundos": 0.337091,
+    "maximo_segundos": 0.403735,
+    "overhead_percentual": -83.69
+  }
+]

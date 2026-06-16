@@ -1,0 +1,9 @@
+ferramenta,operacao,repeticao,duracao_segundos
+docker,build,1,26.374769
+docker,build,2,21.001921
+docker,build,3,20.698939
+reprozip,trace,1,113.892919
+reprozip,pack,1,30.322554
+reprozip,pack,2,29.901962
+reprozip,pack,3,29.541316
+reprozip,reprounzip-docker-setup,1,20.288977

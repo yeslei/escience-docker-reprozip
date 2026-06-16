@@ -1,0 +1,31 @@
+timestamp_utc,contexto,duracao_segundos,python,sistema
+2026-06-16T02:28:13.390222+00:00,native,2.345907,3.12.3,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+2026-06-16T02:28:21.880833+00:00,native,2.579507,3.12.3,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+2026-06-16T02:28:27.105864+00:00,native,2.158158,3.12.3,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+2026-06-16T02:28:33.848400+00:00,native,2.142822,3.12.3,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+2026-06-16T02:28:40.231001+00:00,native,2.059307,3.12.3,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+2026-06-16T02:28:47.077893+00:00,native,2.129939,3.12.3,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+2026-06-16T02:28:51.799300+00:00,native,1.916267,3.12.3,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+2026-06-16T02:29:21.103864+00:00,native,2.475697,3.12.3,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+2026-06-16T02:29:27.541921+00:00,native,2.079548,3.12.3,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+2026-06-16T02:29:34.046223+00:00,native,1.958349,3.12.3,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+2026-06-16T02:31:02.325378+00:00,docker,0.367883,3.11.15,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41
+2026-06-16T02:31:04.082429+00:00,docker,0.401315,3.11.15,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41
+2026-06-16T02:31:05.841756+00:00,docker,0.387779,3.11.15,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41
+2026-06-16T02:31:07.492772+00:00,docker,0.352501,3.11.15,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41
+2026-06-16T02:31:09.322492+00:00,docker,0.434396,3.11.15,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41
+2026-06-16T02:31:11.211299+00:00,docker,0.521409,3.11.15,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41
+2026-06-16T02:31:11.254081+00:00,docker,0.447594,3.11.15,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41
+2026-06-16T02:31:12.948935+00:00,docker,0.376924,3.11.15,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41
+2026-06-16T02:31:14.654450+00:00,docker,0.391145,3.11.15,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41
+2026-06-16T02:31:16.862677+00:00,docker,0.635541,3.11.15,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.41
+2026-06-16T02:40:39.5898108Z,reprozip,0.363146,3.12.3,reprounzip-docker Ubuntu 19.04 over WSL2
+2026-06-16T02:40:45.5607244Z,reprozip,0.379879,3.12.3,reprounzip-docker Ubuntu 19.04 over WSL2
+2026-06-16T02:40:51.1615194Z,reprozip,0.345285,3.12.3,reprounzip-docker Ubuntu 19.04 over WSL2
+2026-06-16T02:40:57.0089994Z,reprozip,0.353441,3.12.3,reprounzip-docker Ubuntu 19.04 over WSL2
+2026-06-16T02:41:02.8402981Z,reprozip,0.403735,3.12.3,reprounzip-docker Ubuntu 19.04 over WSL2
+2026-06-16T02:41:08.4493177Z,reprozip,0.337091,3.12.3,reprounzip-docker Ubuntu 19.04 over WSL2
+2026-06-16T02:41:14.7235863Z,reprozip,0.344413,3.12.3,reprounzip-docker Ubuntu 19.04 over WSL2
+2026-06-16T02:41:20.4271815Z,reprozip,0.354066,3.12.3,reprounzip-docker Ubuntu 19.04 over WSL2
+2026-06-16T02:41:26.2538328Z,reprozip,0.342383,3.12.3,reprounzip-docker Ubuntu 19.04 over WSL2
+2026-06-16T02:41:31.8892110Z,reprozip,0.339801,3.12.3,reprounzip-docker Ubuntu 19.04 over WSL2

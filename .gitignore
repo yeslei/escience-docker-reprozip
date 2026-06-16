@@ -1,6 +1,16 @@
 __pycache__/
 *.py[cod]
 .venv/
+.venv-wsl/
 venv/
-artifacts/
+artifacts/*
+!artifacts/metrics/
+!artifacts/metrics/**
+artifacts/metrics/archive-*/
+!artifacts/processed/
+!artifacts/processed/**
+!artifacts/figures/
+!artifacts/figures/**
 *.rpz
+.reprozip-trace/
+reprozip-run/

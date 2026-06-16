@@ -1,0 +1,4 @@
+contexto,execucoes,media_segundos,mediana_segundos,desvio_padrao_segundos,minimo_segundos,maximo_segundos
+docker_external,10,1.683756,1.675242,0.085077,1.577491,1.8622
+native_external,10,6.299583,6.317538,0.138478,6.061777,6.464093
+reprozip_external,10,5.989189,5.83473,0.701595,5.501319,7.809983

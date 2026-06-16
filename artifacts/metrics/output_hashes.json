@@ -1,0 +1,37 @@
+[
+  {
+    "arquivo": "artifacts/processed/basic_statistics.csv",
+    "sha256": "cf6d1b025142c10e06156d9a0114e0d031ae6c053b2d1a62cf89d710af07370f",
+    "bytes": 653
+  },
+  {
+    "arquivo": "artifacts/processed/gpu_price_enriched.csv",
+    "sha256": "852003ea81ca309ee66eff292c0ce0a544c4e41e5dd913dc633fa68a01c6a850",
+    "bytes": 110311
+  },
+  {
+    "arquivo": "artifacts/processed/gpu_summary.csv",
+    "sha256": "e13a9ee3839a2a182a8e3029972672d70afc1ec401b503542920df8ee17dd5a9",
+    "bytes": 5961
+  },
+  {
+    "arquivo": "artifacts/processed/monthly_market_average.csv",
+    "sha256": "66343cee3972241551e7ba3a9c5d760599503ba35e981679fa42e974aab1805b",
+    "bytes": 1284
+  },
+  {
+    "arquivo": "artifacts/processed/price_correlations.csv",
+    "sha256": "bc7ef1c5f7a7e7ea02496ead8bac5c3fdc03447e2ca83c6871ee6069721aa526",
+    "bytes": 207
+  },
+  {
+    "arquivo": "artifacts/figures/performance_value_scatter.png",
+    "sha256": "2fdee38069463baed9f013d91f07584991177ef46c123a17e1e8f57b16aa7cad",
+    "bytes": 105981
+  },
+  {
+    "arquivo": "artifacts/figures/used_price_trend.png",
+    "sha256": "4ef05bc67c8fd702500765c9dba7205d6237cded7ed3d0c4e36088c2bed8a962",
+    "bytes": 168332
+  }
+]
