@@ -19,6 +19,15 @@ As perguntas que orientaram a analise foram:
 - quais intervencoes manuais foram necessarias;
 - se os artefatos gerados conseguiram reproduzir a pipeline com sucesso.
 
+## Uso de apoio computacional
+
+Durante o desenvolvimento do projeto, foi utilizado o Codex como ferramenta de
+apoio para auxiliar na criacao, organizacao e documentacao da pipeline
+experimental. O uso da ferramenta serviu como suporte ao processo de
+implementacao e estruturacao do codigo, mantendo a analise, a interpretacao dos
+resultados e as decisoes metodologicas sob responsabilidade dos autores do
+trabalho.
+
 ## Pipeline experimental
 
 A pipeline desenvolvida utiliza dois conjuntos de dados em CSV sobre historico de precos de GPUs:
